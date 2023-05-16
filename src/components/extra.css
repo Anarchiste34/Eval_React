@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: rebeccapurple;   
+}
+
+h2 {
+    font-size: 3em;
+    font-weight: bold;
+    color: rebeccapurple;
+}
+
+input {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+button {
+    border-radius: 5px;
+    background-color: white;
+}
+
